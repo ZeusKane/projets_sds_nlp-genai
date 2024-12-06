@@ -1,0 +1,42 @@
+[
+    {
+        "review": "Check out this amazing product at https://www.example.com! It's great for all ages, with over 500 reviews.",
+        "tokens": [
+            "check",
+            "amazing",
+            "product",
+            "great",
+            "age",
+            "review"
+        ]
+    },
+    {
+        "review": "I love this product! It's much better than the previous version.",
+        "tokens": [
+            "love",
+            "product",
+            "well",
+            "previous",
+            "version"
+        ]
+    },
+    {
+        "review": "Terrible quality. Broke after just one week of use.",
+        "tokens": [
+            "terrible",
+            "quality",
+            "break",
+            "week",
+            "use"
+        ]
+    },
+    {
+        "review": "Affordable and works as expected. I recommend it!",
+        "tokens": [
+            "affordable",
+            "work",
+            "expect",
+            "recommend"
+        ]
+    }
+]
